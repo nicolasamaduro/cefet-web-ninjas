@@ -1,0 +1,60 @@
+.logo{
+	width:200px;	
+}
+
+img, iframe{
+	margin-top:25px;
+	margin-bottom:25px;
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1,h2{
+	font-family:monospace;
+}
+
+a:link{
+	color: purple;
+}
+
+a:visited{
+	color: red;
+}
+
+a:hover{
+	text-decoration: none;
+	color: brown;
+}
+
+a:active{
+	text-decoration: none;
+	color: blue;
+}
+
+
+.link-externo {
+	background-image: url(../img/globo.png);
+	background-repeat: no-repeat;
+	padding-left:18px;
+}
+
+.nota{
+	color: rgba(0, 0, 0,0.5);
+}
+
+strong{
+	color: #3F51B5;
+}
+
+p{
+	text-align:justify;
+	font-family: serif;
+}
+
+body{
+	margin-left:15%;
+	margin-right:15%;
+	background-color:#C5CAE9;	
+}
